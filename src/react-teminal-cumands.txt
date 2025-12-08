@@ -1,0 +1,18 @@
+
+once inside the project (by default, unless changed, this file is called ./vite-project)
+this vil start up the website/app so you can view it on localhost:5173, by default
+    npm dev run
+
+to install and start a new react project:
+    npm create vite@latest 
+        "name of project"
+        react
+        javascript
+    cd ./"project name"
+    npm install
+    npm run dev
+
+
+to make a new file from terminal:
+    cd ./foldername
+    touch "filename"
