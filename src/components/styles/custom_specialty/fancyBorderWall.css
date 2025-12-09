@@ -1,0 +1,9 @@
+.fancyBorderWall {
+  height: auto;
+  width: cover;
+  margin-bottom: 2rem;
+  border-top: 2px;
+  border-bottom: 0;
+  border-style: solid;
+  border-image: linear-gradient(to left, #181818, #eee, #181818) 1 5%;
+}
