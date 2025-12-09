@@ -1,5 +1,5 @@
 import {useState} from "react";
-import TaskCard from "./TaskCard";
+import TaskCard from "./styles/cards/TaskCard";
 import {useLocalStorage} from "../hooks/useLocalStorage";
 
 //

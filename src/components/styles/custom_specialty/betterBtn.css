@@ -1,0 +1,27 @@
+.btns {
+  display: grid;
+  grid-template-columns: 200px 375px;
+}
+.btns button {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.reset {
+  border-radius: 6px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #555252b5;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+.reset:hover {
+  border-color: #646cff;
+}
+.reset:focus,
+.reset:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
